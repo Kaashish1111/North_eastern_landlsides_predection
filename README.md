@@ -1,1 +1,1 @@
-# North_eastern_landlsides_predection
+# NorthEastern_landlsides_predection
